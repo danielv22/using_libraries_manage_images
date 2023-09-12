@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "require": {
+        "intervention/image": "^2.7",
+        "illuminate/support": "^10.22"
+    }
+}
